@@ -1,0 +1,3 @@
+token:
+  secret: user-token
+  expiation_time: 87600000
