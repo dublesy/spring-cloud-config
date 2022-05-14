@@ -1,5 +1,7 @@
+encrypt:
+  key: abcdefghijklmnopqrstuvwxyz1234567890
+
 token:  
-  expiration_time: 864000000  
-  secret: my_token_default
+  expiration_time: 864000000
 gateway:
   ip: 10.245.110.114
